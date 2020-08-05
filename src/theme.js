@@ -19,7 +19,7 @@ export default {
     large: rem(32),
     xLarge: rem(64),
     xxLarge: rem(128),
-    xxxLarge: rem(256),
+    xxxLarge: rem(192),
     navHeight: rem(96),
     navHeightMobile: rem(110)
   },
