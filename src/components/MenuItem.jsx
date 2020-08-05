@@ -22,7 +22,7 @@ const Content = styled.div`
 const ContentText = styled.div`
     height: ${(props) => props.theme.sizes.xxLarge};
     width: ${(props) => props.theme.sizes.xxLarge};
-    background: rgba(256, 256, 256, 0.25);
+    background: rgba(256, 256, 256, 0.75);
     display: flex;
     flex-direction: column;
     justify-content: center;

@@ -41,7 +41,8 @@ const NavItems = styled.ul`
 `;
 
 const NavItem = styled.li`
-  font-family: Merriweather;
+  font-family: Montserrat;
+  font-weight: 700;
   font-size: ${(props) => props.theme.fonts.medium};
   padding: ${(props) => props.theme.sizes.tiny};
 `;

@@ -18,9 +18,9 @@ const Homepage = () => {
   return (
     <Container>
       <MenuItem title={"ARMOR"} imageURL={ArmorMenuImg} />
-      <MenuItem title={"HELMETS"} imageURL={HelmetMenuImg}/>
+      <MenuItem title={"HEAD"} imageURL={HelmetMenuImg}/>
       <MenuItem title={"ARMS"} imageURL={WeaponsMenuImg}/>
-      <MenuItem title={"TRINKETS"} imageURL={TrinketsMenuImg}/>
+      <MenuItem title={"MISC."} imageURL={TrinketsMenuImg}/>
     </Container>
   );
 };
