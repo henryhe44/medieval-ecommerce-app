@@ -1,8 +1,8 @@
 import { rem } from "polished";
 
 export default {
-  borderRadius: rem(4),
   fonts: {
+    xTiny: rem(4),
     tiny: rem(8),
     small: rem(16),
     medium: rem(24),
@@ -24,10 +24,10 @@ export default {
     navHeightMobile: rem(110)
   },
   colors: {
-    mainBG: "#141414",
-    red: "#e50914",
-    grey: "#92908e",
+    carmine: "#91121D",
+    red: "#E7222A",
     white: "#ffffff",
-    gradient: `-webkit-linear-gradient(#B81C23, #fc014f)`
+    grey: "#d3d5d7",
+    black: "f000000"
   }
 };
