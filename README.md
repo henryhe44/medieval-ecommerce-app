@@ -8,8 +8,7 @@ Black Grail Arms is a *work in progress* ecommerce site for Medieval arms, armor
 - Open [http://localhost:3000](http://localhost:3000) to view
 
 ### Deployment
-This app has been deployed using Vercel at the link below:
-https://vercel.com/hhe/medieval-ecommerce-app
+This app has been deployed using Vercel here: https://medieval-ecommerce-app.vercel.app/
 
 ### FAQs
 ##### Why did you build this?
